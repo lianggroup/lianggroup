@@ -10,3 +10,5 @@ Information about the mentor of our group is as follows：
 - Radio resource management(e.g. **Resource allocation in cellular/V2X/Wi-Fi networks**)
 - Machine learning over wireless networks(e.g. **Collaborative perception for autonomous driving**)
 - Learning-based communication and signal processing(e.g. **Goal-oriented communications and MIMO**)
+
+I am looking for highly motivated students with solid mathematics background, who are interested in machine learning and wireless communications in general.
