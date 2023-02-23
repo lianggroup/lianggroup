@@ -17,7 +17,7 @@ The tools we frequently use include deep/reinforcement/federated learning, graph
 - Passionate about life and scientific research
 
 ```
-We have 1-2 Ph.D. and 3-4 Master's openings each year. Please drop us an email if you're interested in joining us.
+We have 1-2 Ph.D. and 3-4 Master's opening each year. Please drop us an email if you're interested in joining us.
 ```
 
 **For more information, please check out our research website:** [https://liang-seu.net/](https://liang-seu.net/)
