@@ -1,7 +1,7 @@
 ### Hi there, we're [LLGroup](https://liang-seu.net/)!:wave:
 We are from the [School of Information Science and Engineering](https://radio.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China, and we do research in wireless communications, signal processing, and machine learning. 
 
-> There is no royal road to learning.
+> Scientific research is like a board of wood, some people like to drill thin; and I like to drill thick. -- Einstein
 
 🚖**Our current focus is on the theory and application of intelligent wireless systems, including**:
 
