@@ -7,6 +7,6 @@ Information about the mentor of our group is as follows：
 
 🔭 **Reseach-wise, we mainly focus on**:
 
-- **Learning-based communication signal processing**
-- **Machine learning over wireless networks**
-- **radio resource management**
+- Learning-based communication signal processing
+- Machine learning over wireless networks
+- radio resource management
