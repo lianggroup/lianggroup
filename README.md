@@ -11,4 +11,6 @@ Information about the mentor of our group is as follows：
 - Machine learning over wireless networks(e.g. **Collaborative perception for autonomous driving**)
 - Learning-based communication and signal processing(e.g. **Goal-oriented communications and MIMO**)
 
-I am looking for highly motivated students with solid mathematics background, who are interested in machine learning and wireless communications in general.
+```
+I am looking for highly motivated students with solid mathematics and coding background, who are interested in machine learning and wireless communications in general.
+```
