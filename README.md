@@ -13,7 +13,7 @@ Information about the mentor of our group is as follows：
 
 
 📣**As for students, we're now looking for**:
-- Highly motivated students with solid mathematics and coding background
+- **Highly motivated** students with solid mathematics and coding background
 - Interested in machine learning and wireless communications in general
 - Passionate about life and scientific research
 
