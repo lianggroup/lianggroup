@@ -9,7 +9,6 @@ Information about the mentor of our group is as follows：
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td>
-                <!--左侧内容-->
                 🔑**The tools we use include**:
 
                 - Deep/reinforcement/federated learning
@@ -23,7 +22,6 @@ Information about the mentor of our group is as follows：
                 - Goal-oriented communications and MIMO
             </td>
             <td>
-                <!--右侧内容-->
                 🖥️:**Research-wise, we mainly focus on**:
 
                 - Learning-based communication and signal processing
