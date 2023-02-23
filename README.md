@@ -22,3 +22,4 @@ The tools we frequently use include deep/reinforcement/federated learning, graph
 ```
 We usually have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop us an email if you're interested in our group.
 ```
+For more information, please check out our research site:
