@@ -1,5 +1,5 @@
 ### Hi there, we're [LLGroup](https://liang-seu.net/)!:wave:
-We are from the [School of Information Science and Engineering]([https://radio.seu.edu.cn/main.ht](https://liang-seu.net)m), [Southeast University](https://www.seu.edu.cn/), China, and we do research in wireless communications, signal processing, and machine learning. 
+We are from the [School of Information Science and Engineering](https://radio.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), China, and we do research in wireless communications, signal processing, and machine learning. 
 
 🚖**Our current focus is on the theory and application of intelligent wireless systems, including**:
 
