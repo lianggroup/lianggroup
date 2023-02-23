@@ -1,5 +1,5 @@
 ### Hi there, we're [LLGroup](https://liang-seu.net/)!:wave:
-We are from [School of Information Science and Technology](https://radio.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), China.
+We are from the [School of Information Science and Technology](https://radio.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), China.
 
 Information about the PI：
 
@@ -11,7 +11,7 @@ Information about the PI：
 - Machine learning over wireless networks (e.g. **Collaborative perception for autonomous driving**)
 - Learning-based communication and signal processing (e.g. **Goal-oriented/semantic communications and MIMO**)
 
-The tools we frequently use in research include deep/reinforcement/federated learning, graph neural networks, variational inference/MCMC, and optimization
+The tools we frequently use in research include deep/reinforcement/federated learning, graph neural networks, and optimization.
 
 📣**As for students, we're now looking for**:
 - Highly motivated students with solid mathematics and coding background
