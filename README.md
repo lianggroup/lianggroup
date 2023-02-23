@@ -12,5 +12,5 @@ Information about the mentor of our group is as follows：
 - Learning-based communication and signal processing(e.g. **Goal-oriented communications and MIMO**)
 
 `
-I am looking for highly motivated students with solid mathematics and coding background, who are interested in machine learning and wireless communications in general.
+**Student:** I am looking for highly motivated students with solid mathematics and coding background, who are interested in machine learning and wireless communications in general.
 `
