@@ -18,5 +18,5 @@ Information about the mentor of our group is as follows：
 
 ```
 I usually have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop me an email if you're interested in our group.
-Email:lliang@seu.edu.cn
+**Email: lliang@seu.edu.cn**
 ```
