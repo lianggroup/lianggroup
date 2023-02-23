@@ -28,7 +28,7 @@ Information about the mentor of our group is as follows：
         <tr>
             <td>
                 <!--左侧内容-->
-                
+                左侧
             </td>
             <td>
                 <!--右侧内容-->
