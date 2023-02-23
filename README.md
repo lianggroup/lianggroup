@@ -21,3 +21,4 @@ We have 1-2 Ph.D. and 3-4 Master's opening each year. Please drop us an email if
 ```
 
 **For more information, please check out our research website:** [https://liang-seu.net/](https://liang-seu.net/)
+**If you're interested in joining our group, please drop us an email:** lliang@seu.edu.cn
