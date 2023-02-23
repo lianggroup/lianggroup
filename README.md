@@ -8,5 +8,5 @@ Information about the mentor of our group is as follows：
 🖥️:**Research-wise, we mainly focus on**:
 
 - Radio resource management(e.g. **Resource allocation in cellular/V2X/Wi-Fi networks**)
-- Machine learning over wireless **networks(e.g. Collaborative perception for autonomous driving**)
+- Machine learning over wireless networks(e.g. **Collaborative perception for autonomous driving**)
 - Learning-based communication and signal processing(e.g. **Goal-oriented communications and MIMO**)
