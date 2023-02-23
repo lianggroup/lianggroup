@@ -17,17 +17,8 @@ Information about the mentor of our group is as follows：
 - Graph neural networks
 - Optimization Method
                  
-            </td>
-            <td>
-                <!--右侧内容-->
-                
-                
-                🚙**The application we're interested in include**:
+🚙**The application we're interested in include**:
 
-              - Resource allocation in cellular/V2X/Wi-Fi networks
-              - Collaborative perception for autonomous driving
-              - Goal-oriented communications and MIMO
-            </td>
-        </tr>
-    </table>
-</html>
+- Resource allocation in cellular/V2X/Wi-Fi networks
+- Collaborative perception for autonomous driving
+- Goal-oriented communications and MIMO
