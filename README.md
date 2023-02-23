@@ -7,18 +7,6 @@ Information about the mentor of our group is as follows：
 
 🖥️:**Research-wise, we mainly focus on**:
 
-- Learning-based communication and signal processing
-- Machine learning over wireless networks
-- Radio resource management
-
-🔑**The tools we use include**:
-
-- Deep/reinforcement/federated learning
-- Graph neural networks
-- Optimization Method
-
-🚙**The application we're interested in include**:
-
-- Resource allocation in cellular/V2X/Wi-Fi networks
-- Collaborative perception for autonomous driving
-- Goal-oriented communications and MIMO
+- Radio resource management(e.g. Resource allocation in cellular/V2X/Wi-Fi networks)
+- Machine learning over wireless networks(e.g. Collaborative perception for autonomous driving)
+- Learning-based communication and signal processing(e.g. Goal-oriented communications and MIMO)
