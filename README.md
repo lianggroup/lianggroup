@@ -21,5 +21,4 @@ Information about the mentor of our group is as follows：
 
 - Resource allocation in cellular/V2X/Wi-Fi networks
 - Collaborative perception for autonomous driving
-- Goal-oriented communications
-- Multiple-Input Multiple-Output(MIMO)
+- Goal-oriented communications and MIMO
