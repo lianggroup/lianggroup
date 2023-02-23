@@ -16,7 +16,7 @@ The tools we frequently use include deep/reinforcement/federated learning, graph
 - Interested in machine learning and wireless communications in general
 
 ```
-We usually have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop us an email if you're interested in joining us.
+We have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop us an email if you're interested in joining us.
 ```
 
 **For more information, please check out our research website:** [https://liang-seu.net/](https://liang-seu.net/)
