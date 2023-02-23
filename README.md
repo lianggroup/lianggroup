@@ -16,7 +16,7 @@ Information about the mentor of our group is as follows：
 - Highly motivated students with solid mathematics and coding background
 - Interested in machine learning and wireless communications in general
 
-`
-I usually have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop me an email if you are interested in working with me.
+```
+I usually have 1-2 Ph.D. and 3-4 Master's openings every year. Please drop me an email if you're interested in working with me.
 Email:lliang@seu.edu.cn
-`
+```
