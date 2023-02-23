@@ -11,7 +11,9 @@ Information about the PI：
 - Machine learning over wireless networks (e.g. **Collaborative perception for autonomous driving**)
 - Learning-based communication and signal processing (e.g. **Goal-oriented/semantic communications and MIMO**)
 
+```
 The tools we frequently use in research include deep/reinforcement/federated learning, graph neural networks, and optimization.
+```
 
 📣**As for students, we're now looking for**:
 - Highly motivated students with solid mathematics and coding background
