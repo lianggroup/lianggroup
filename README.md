@@ -6,7 +6,7 @@ We are from the [School of Information Science and Engineering](https://radio.se
 🚖**Our current focus is on the theory and application of intelligent wireless systems, including**:
 
 - Intelligent radio resource management (e.g. **Resource allocation in cellular/V2X/Wi-Fi networks**)
-- Machine learning over wireless networks (e.g. **Collaborative perception for autonomous driving**)
+- Multi-agent system over wireless networks (e.g. **Collaborative perception for autonomous driving**)
 - Learning-based communication and signal processing (e.g. **Goal-oriented/semantic communications and MIMO**)
 
 ```
