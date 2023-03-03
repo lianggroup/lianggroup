@@ -12,11 +12,10 @@ To have an idea on what we do on a day-to-day basis, the tools we frequently use
 
 
 📣**We are looking for Master's and Ph.D. students who are**:
-- Highly motivated with solid mathematics and coding background
 - Interested in machine learning and wireless communications in general
+- Highly motivated and having solid mathematics and coding background
 - Passionate about life and scientific research
 
 We have 1-2 Ph.D. and 3-4 Master's opening each year. Please drop us an email (lliang@seu.edu.cn) if you're interested in joining us.
-
 
 **For more information, please check out our research website:** [https://liang-seu.net/](https://liang-seu.net/)
